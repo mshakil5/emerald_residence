@@ -128,20 +128,19 @@
         <div class="row">
             <div class="col-md-9 mx-auto text-justify">
                 <div class="about-right ">
-                    <h2 class="title-global text-center">Welcome to Emerald Residence</h2>
                     <p><b>Diamonds Group</b> is ecstatic to introduce the 5th hospitality branch - <b>Emerald Residence</b>.
 
-                        <br/><br/>It is a family-run business with skilled members making up the management team. 
+                        <br/>It is a family-run business with skilled members making up the management team. 
     
-                        <br/><br/>Located in York within 2 miles of York Railway Station and 2 miles of York Train Station, Emerald Residence provides accommodation with a garden and free private parking for guests who drive. 
+                        <br/>Located in York within 2 miles of York Railway Station and 2 miles of York Train Station, Emerald Residence provides accommodation with a garden and free private parking for guests who drive. 
     
-                        <br/><br/>The property is situated 20.5 miles from Bramham Park, 23 miles from Harrogate International Centre, and 23 miles from Royal Hall Theatre. 
+                        <br/>The property is situated 20.5 miles from Bramham Park, 23 miles from Harrogate International Centre, and 23 miles from Royal Hall Theatre. 
     
-                        <br/><br/>The property is non-smoking and is set at 2.1 miles from York Minister.
+                        <br/>The property is non-smoking and is set at 2.1 miles from York Minister.
                     
-                        <br><br>
+                        <br>
                         At the guest house, each room comes with a wardrobe, A flat-screen TV, a private bathroom, bed linen, and towels.
-                        <br><br>
+                        <br>
                         The nearest airport is Leeds Bradford International Airport 29.2 miles from Adams House. 
                         </p>
     
