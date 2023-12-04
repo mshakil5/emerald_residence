@@ -150,6 +150,7 @@
         </div>
         <div class="row mt-5 mb-3">
             <div class="blog-slider">
+                {{-- Family room-Superior-Ensuite-Garden view --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
@@ -169,6 +170,7 @@
                     </div>
                 </div>
             
+                {{-- Triple room-Basic-Shared Bathroom --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
@@ -188,10 +190,12 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Double room-Standard-Ensuite-Garden view --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="https://via.eviivo.com/EmeraldResidenceYO10">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/commingsoon.jpg')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/double1.jpg')}}" alt="">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -206,6 +210,8 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Quad room-Deluxe-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="https://via.eviivo.com/EmeraldResidenceYO10">
@@ -224,10 +230,12 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Quad room-Standard-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/commingsoon.jpg')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/quadstandard.jpg')}}" alt="">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -242,6 +250,8 @@
                         </div>
                     </div>
                 </div>
+
+                {{-- Single room-Basic-Shared Bathroom --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
@@ -256,11 +266,12 @@
                             The Single room shared bathroom has a comfortable single bed,flat-screen TV, towels, toiletries, and tea and coffee-making facilities.,the modern shower facilities.  <br/> Single Room shared bathroom is available on the first floor.
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
-                            <a href="https://via.eviivo.com/EmeraldResidenceYO10"https://via.eviivo.com/EmeraldResidenceYO10 class="btn-theme d-block w-100 text-center">BOOK ROOMS</a>
+                            <a href="https://via.eviivo.com/EmeraldResidenceYO10" class="btn-theme d-block w-100 text-center">BOOK ROOMS</a>
                         </div>
                     </div>
                 </div>
                 
+                {{-- Twin room-Superior-Ensuite --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
@@ -275,14 +286,14 @@
                           Twin Superior en-suite room with comfortable 2 single beds, flat-screen TV, towels, toiletries, and tea and coffee-making facilities. The modern en-suites have shower facilities. 
                         </p>
                         <div class="d-flex mt-3 justify-content-between align-items-center">
-                            <a href="https://via.eviivo.com/EmeraldResidenceYO10"https://via.eviivo.com/EmeraldResidenceYO10 class="btn-theme d-block w-100 text-center">BOOK ROOMS</a>
+                            <a href="https://via.eviivo.com/EmeraldResidenceYO10" class="btn-theme d-block w-100 text-center">BOOK ROOMS</a>
                         </div>
                     </div>
                 </div>
                 
                 
-                
-                  <div class="blog p-3">
+                {{-- Triple room-Deluxe-Ensuite --}}
+                <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
                             <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/commingsoon.jpg')}}" alt="">
