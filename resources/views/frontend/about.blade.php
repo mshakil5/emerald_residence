@@ -35,6 +35,20 @@
                     The nearest airport is Leeds Bradford International Airport 29.2 miles from Adams House. 
                     </p>
 
+                    <p><b>On site parking available.</b></p>
+                        <p><b>Off Street free Parking available.</b></p>
+                        <p style="color: red"><b>Check-in time:  2:00 pm <br>Check-out time: 	10.30 am</b></p>
+                        <p><b>Address & contact information:</b></p>
+                        <p>5 Main Street</p>
+                        <p>Fulford</p>
+                        <p>York </p>
+                        <p>YO10 4HJ</p>
+                        <br>
+                        <p  style="color: red">For Booking: call : 07340631122, 07778529048, 07717941122 <br>
+                        Email: emeraldresidenceyork@gmail.com</p>
+                        <p>Directions:	(Link)</p>
+    
+
                 
                 </div>
             </div>
