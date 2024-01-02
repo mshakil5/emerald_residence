@@ -166,11 +166,11 @@
         </div>
         <div class="row mt-5 mb-3">
             <div class="blog-slider">
-                {{-- Family room-Superior-Ensuite-Garden view --}}
+                {{-- Family room-Superior-Ensuite-Garden view  done --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/commingsoon.jpg')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/room/family_room_superior.jpg')}}" alt="">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -186,11 +186,11 @@
                     </div>
                 </div>
             
-                {{-- Triple room-Basic-Shared Bathroom --}}
+                {{-- Triple room-Basic-Shared Bathroom done --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/commingsoon.jpg')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/room/basic_triple.jpg')}}" alt="">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -287,11 +287,11 @@
                     </div>
                 </div>
                 
-                {{-- Twin room-Superior-Ensuite --}}
+                {{-- Twin room-Superior-Ensuite done --}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/commingsoon.jpg')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/room/twin_room_superior.jpg')}}" alt="">
                         </a>
                     </div>
                     <div class="blog-content">
@@ -308,11 +308,11 @@
                 </div>
                 
                 
-                {{-- Triple room-Deluxe-Ensuite --}}
+                {{-- Triple room-Deluxe-Ensuite  done--}}
                 <div class="blog p-3">
                     <div class="photo mb-3">
                         <a href="">
-                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/posts/commingsoon.jpg')}}" alt="">
+                            <img class="img-fluid rounded w-100" src="{{ asset('assets/frontend/images/room/delux_triple.jpg')}}" alt="">
                         </a>
                     </div>
                     <div class="blog-content">
